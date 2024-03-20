@@ -108,7 +108,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
-# При планировании архитектуры было решено,
+# При планировании архитектуры было решено, + comment
 # что статические файлы Django должны быть доступны по адресу /static/
 STATIC_URL = '/static/'
 # Указываем корневую директорию для сборки статических файлов;
