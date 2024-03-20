@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['backend', '130.193.55.162', '127.0.0.1', 'localhost', 'taski-blokhin.ddns.net']
+ALLOWED_HOSTS = ['backend', '130.193.55.162', '127.0.0.1', 'localhost', 'taski-blokhin.zapto.org']
 
 
 # Application definition
